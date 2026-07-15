@@ -14,33 +14,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-- React Native CLI
-- TypeScript
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Redux Toolkit
-- React Navigation
-- Git & GitHub
-
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-🚀 **TrendPulse** – AI-Powered Social Media Trend Tracker
-
-🌐 **Personal Portfolio Website**
-
-🧳 **Travel & Tour Management System**
+| Project | Description | Tech |
+|---------|-------------|------|
+| **TrendPulse** | AI-powered social media trend tracker | React Native, TypeScript, Node.js, MongoDB |
+| **Portfolio Website** | Personal developer portfolio | Next.js 15, TypeScript, Tailwind CSS |
+| **Travel & Tour System** | Travel booking platform | PHP, MySQL, Bootstrap |
 
 ---
 
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mdsaqibhussain
-- 💻 GitHub: https://github.com/Mdsaqib7411
 - 🌍 Portfolio: https://mdsaqibhussain.vercel.app
+- 📧 Email: mdsaqibhussain123@gmail.com
