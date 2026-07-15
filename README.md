@@ -41,6 +41,6 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/md-saqib-hussain-7411l7295
+- 💼 LinkedIn: https://www.linkedin.com/in/mdsaqibhussain
 - 💻 GitHub: https://github.com/Mdsaqib7411
 - 🌍 Portfolio: https://mdsaqibhussain.vercel.app
